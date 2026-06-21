@@ -1,0 +1,4 @@
+service:
+  name: payment-api
+  url: https://jsonplaceholder.typicode.com/posts/1
+  timeout: 5
